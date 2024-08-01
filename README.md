@@ -22,6 +22,8 @@ is an object that stores other objects, referred
 to as data or elements. To define a data structure
 is essentially to define a class.
 
+[Introduction to Java Programming-Y.Daniel.Liang-Chapter20](https://github.com/Nikhil-Vinay/E-Books/blob/master/Y.Daniel.Liang.-.Introduction.to.Java.Programming.Comprehensive.Version.10th.Edition.-.2014.pdf)
+
 ### Collections
 
 The Collection interface defines the common
@@ -36,3 +38,14 @@ of containers`:
 2. The other, for storing key/value pairs, is
    called a map.
 
+[Introduction to Java Programming-Y.Daniel.Liang-Chapter20](https://github.com/Nikhil-Vinay/E-Books/blob/master/Y.Daniel.Liang.-.Introduction.to.Java.Programming.Comprehensive.Version.10th.Edition.-.2014.pdf)
+
+### Iterators
+
+Each collection is `Iterable`. You can obtain its
+Iterator object to traverse all the
+elements in the collection.
+Iterator is a classic design pattern for walking
+through a data structure without having to
+expose the details of how data is stored in the
+data structure.
