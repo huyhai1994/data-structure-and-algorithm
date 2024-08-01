@@ -1,6 +1,6 @@
-package com.codegym.slidingwindow;
+package com.codegym.slidingwindow.pattern1;
 
-public class slidingWindowSolution {
+public class SlidingWindowSolution {
     public static float findMaxAverageSlidingWindow(int[] nums, int k) {
         int windowSum = 0;
         int start = 0;

@@ -17,8 +17,7 @@ approach.
 
 `Sliding Window` have 2 types;
 
-* Fixed window Size( The code in this package
-  using Fixed window Size approaches);
+* Fixed window Size;
 * Dynamic Window Size;
 
 ### Source
