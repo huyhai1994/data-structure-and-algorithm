@@ -1,3 +1,5 @@
+package com.codegym.list;
+
 /**
  * This interface represents a list of elements of type E. It extends the Iterable interface,
  * allowing for iteration over the elements in the list.
